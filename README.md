@@ -3,5 +3,6 @@
  The prefix scan is inclusive, uses up-down sweeps.
  
  This has implementations with GML Compute API and WebGPU bindings.
- Note that are at the time of writing, both GMRT is still in beta, and both API's are still in experimental stages. 
-  -> https://github.com/YoYoGames/GMRT-Beta/tree/main/docs/webgpu
+ Note, that at the time of writing, GMRT is still in beta, and both API's are still in experimental stages. 
+ 
+  Read more https://github.com/YoYoGames/GMRT-Beta/tree/main/docs/webgpu
