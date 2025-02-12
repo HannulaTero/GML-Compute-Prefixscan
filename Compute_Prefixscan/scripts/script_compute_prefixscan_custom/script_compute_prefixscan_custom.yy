@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"script_compute_prefixscan_custom",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script_compute_prefixscan_custom",
+  "parent":{
+    "name":"Compute_Prefixscan",
+    "path":"Compute_Prefixscan.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
