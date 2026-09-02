@@ -144,7 +144,7 @@ function Prefixscan(_params) constructor
     // Do the compute passes.
     for(var i = 0; i < _passCount; i++)
     {
-      _pass.setBindGroup(0, _bindGroup, [ i * 256 ]);
+      _pass.setBindGroup(0, _bindGroup, [ i * _alignment ]);
       _pass.dispatchWorkgroups(_workgroupCounts[i]);
     }
     _pass.end_();
